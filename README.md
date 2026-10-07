@@ -10,3 +10,5 @@ Layout: `pr/<PR number>/<name>.png`. Embed with a commit-pinned raw URL:
 ```
 https://raw.githubusercontent.com/tynorton/openledger-screenshots/<commit sha>/pr/<N>/<name>.png
 ```
+
+Screenshots for pull requests of tynorton/claude-retirementcalc go under `retirementcalc/pr/<N>/<name>.png`, from its fictional sample household with a mocked OpenLedger.
